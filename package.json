@@ -1,0 +1,19 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lutiku/Node.git"
+  },
+  "author": "Lutiku Ndongala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lutiku/Node/issues"
+  },
+  "homepage": "https://github.com/lutiku/Node#readme"
+}
